@@ -1,0 +1,27 @@
+body {
+ 
+    background-color: #000000; 
+    background-image: url("http://evangcatbr.org/wp-content/uploads/2016/11/home-e1479448796107.jpg"); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+#slogan {
+    font-style: italic; 
+    	text-align:center;
+    }
+
+h1 {text-align:center;
+	  font-family: "Open Sans", Arial, sans-serif;
+	font-size: 77px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;}
+h2 {text-align:center; font-family: "Open Sans", Arial, sans-serif;}
+p {text-align:left; font-family: "Open Sans", Arial, sans-serif;}
+h1, h2, p, ul, li{
+	color: #ffffff;
+}
