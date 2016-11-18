@@ -20,8 +20,33 @@ h1 {text-align:center;
 	font-variant: normal;
 	font-weight: 400;
 	line-height: 26.4px;}
-h2 {text-align:center; font-family: "Open Sans", Arial, sans-serif;}
+h3 {text-align:center; font-family: "Open Sans", Arial, sans-serif;}
 p {text-align:left; font-family: "Open Sans", Arial, sans-serif;}
-h1, h2, p, ul, li{
+h1, h3, p, ul, li{
 	color: #ffffff;
+}
+
+/* links */
+a:link {
+    text-decoration: none;
+}
+/* mouse over link */
+a:hover {
+    color: #ceff00;
+}
+a:link, a:visited {
+    background-color: #214345;
+    color: #e7ecee;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: #558185;
+}
+
+a {
+    font-family: "Open Sans", Arial, sans-serif;
 }
