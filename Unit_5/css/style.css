@@ -62,6 +62,9 @@ a:link, a:visited {
     text-align: center; 
     text-decoration: none;
     display: inline-block;
+    float: right
+    
+
 }
 
 a:hover, a:active {
@@ -87,9 +90,6 @@ a {
 
     margin-left: 65px;
 
-
-
-
 }
 
 #para3 {
@@ -113,3 +113,6 @@ a {
     margin-left: 100px;
     
     }
+
+
+
